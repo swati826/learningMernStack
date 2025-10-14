@@ -85,9 +85,8 @@ function passfail (marks){
 
 console.log(passfail(80))
 
-//terniary operater
-
-let number4 = 35
+//terniary operatlet 
+number4 = 35
 function result (number4){
          number4 >= 40 ? "Pass" : "Fail";
 }
