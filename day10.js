@@ -19,7 +19,7 @@ console.log(`maximum element`,max)
 
 
 //find the minimum element in an array
-let number2=[20,59,90,45];
+let number2=[20,59,90,45,60];
 let min=number2[0];
 for(let i=1;i<number2.length;i++){
   if(number2[i]<min){
